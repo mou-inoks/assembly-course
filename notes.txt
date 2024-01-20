@@ -1,3 +1,5 @@
 Notes Assembly course 
 
 1. Créer une extension pour assembly 32 bit ou 64 bits 
+
+Fuck assembly 
